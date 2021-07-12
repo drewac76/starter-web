@@ -4,6 +4,7 @@
 # TEAM
 
     Andrew Cochran	drewac76
+	Dick Guiterez	dick34
 
 # THANKS
 
